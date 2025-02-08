@@ -1,4 +1,4 @@
-# Maze-Scratch-Website
+# 迷宫网站版(Scratch)
 迷宫网页版(Scratch)
 
 
